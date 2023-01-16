@@ -1,8 +1,9 @@
 <h1 align="center"> Organo 📖 </h1>
 
-<p align="center">Crie seu time personalizado 
+<p align="center">Crie seu time personalizado </p>
 
-</p>
+<p align="center">* Projeto por padrao com os times da alura </p>
+
 
 ![Organo](https://user-images.githubusercontent.com/109561452/212744331-31b6423f-9d71-43fd-8602-28172a62c137.gif)
 
